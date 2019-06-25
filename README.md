@@ -4,12 +4,12 @@
 #### 메인코드
 ```vba
 Attribute VB_Name = "resizeNarrange"
-Option Explicit
 ' resizeNarrange(430,3,5,10)
 '      changeHeight : Image Height
 '      cols : column count
 '      gapH : holizontal gap
 '      gapV : vertical gap
+Option Explicit
 Public Sub resizeNarrange(changeHeight As Integer, cols As Integer, gapH As Integer, gapV As Integer)
 
     Dim idx As Integer
