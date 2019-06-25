@@ -3,7 +3,6 @@
 ## Usage
 #### 메인코드
 ```vba
-Attribute VB_Name = "resizeNarrange"
 ' resizeNarrange(430,3,5,10)
 '      changeHeight : Image Height
 '      cols : column count
